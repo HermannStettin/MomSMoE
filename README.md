@@ -1,6 +1,6 @@
-# MomSMoE
+# Integrating Momentum Into SMoEIntegrating Momentum Into SMoE
 
-Code is based upon [MomentumSMoE: Integrating Momentum into Sparse Mixture of Experts](https://arxiv.org/abs/2410.14574) paper.
+We implemented code from [MomentumSMoE: Integrating Momentum into Sparse Mixture of Experts](https://arxiv.org/abs/2410.14574) paper and extended it on Mars and Ademamix optimizers.
 
 ### Prerequisites
 
