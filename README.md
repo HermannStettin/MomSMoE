@@ -13,8 +13,8 @@ See directory scripts/ for examples.
 
 ### Tested Models
 - [x] SMoE without Momentum
-- [x] Heavy-ball Momentum SMoE (from orignal paper)
-- [x] Adam SMoE (from orignal paper)
+- [x] Heavy-ball Momentum SMoE (from original paper)
+- [x] Adam SMoE (from original paper)
 - [x] Mars SMoE
 - [x] Ademamix SMoE
 
