@@ -15,7 +15,7 @@ See directory scripts/ for examples.
 - [x] SMoE without Momentum
 - [x] Heavy-ball Momentum SMoE (from orignal paper)
 - [x] Adam SMoE (from orignal paper)
-- [ ] Mars SMoE
-- [ ] Ademamix SMoE
+- [x] Mars SMoE
+- [x] Ademamix SMoE
 
 For the results see this wandb report: https://api.wandb.ai/links/bigesod536-team/m6j5jd8f
